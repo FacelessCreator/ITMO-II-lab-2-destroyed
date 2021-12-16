@@ -45,7 +45,6 @@ make
 
 ## Обратная связь
 Напишите, где я намусорил... или оставьте другой отзыв. 
-> почта: theunnamedh@zohomail.com 
 > telegram: @theunnamedh
 
 ## План работ
